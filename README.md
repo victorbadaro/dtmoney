@@ -24,9 +24,9 @@ An application for the personal financial management made with Javascript, Types
 
 * [React](https://reactjs.org/)
 * [Typescript](https://www.typescriptlang.org/)
-* [Webpack](https://webpack.js.org/)
-* [Babel](https://babeljs.io/)
-* [Sass](https://sass-lang.com/)
+* [Styled Components](https://styled-components.com/)
+* [Axios](https://github.com/axios/axios)
+* [MirageJS](https://miragejs.com/)
 
 _(You can see all the dependencies in the [package.json](./package.json) file)_
 <br>
