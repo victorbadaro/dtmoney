@@ -74,4 +74,4 @@ After that open your browser and access: http://localhost:3000/
 <br>
 
 ---
-<p align="center">Desenvolvido com ❤ por <a href="https://github.com/victorbadaro">Victor Badaró</a></p>
+<p align="center">Developed with ❤ by <a href="https://github.com/victorbadaro">Victor Badaró</a></p>
